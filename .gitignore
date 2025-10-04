@@ -26,9 +26,3 @@ quantitative_eval/indexes/
 #raw scrape (commit only processed CSVs)
 quantitative_eval/your_scrape/
 
-
-# raw scrape (ignore)
-quantitative_eval/myki/
-quantitative_eval/fare_tables*/
-quantitative_eval/html_snapshots/
-quantitative_eval/tvic/

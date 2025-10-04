@@ -1,0 +1,7 @@
+COMPENSATION TRIGGER,MYKI COMPENSATION VALUE
+Delivery,Delivery
+If Metro delivers less than 98% of its scheduled services in a calendar month,1x Daily Ticket
+If Metro delivers less than 95% of its scheduled services in a calendar month,2x Daily Tickets
+Punctuality,Punctuality
+If less than 90% of Metro services are on-time in a calendar month,1x Daily Ticket
+If less than 86% of Metro services are on-time in a calendar month,2x Daily Tickets
