@@ -1,0 +1,34 @@
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Walert build artifacts
+quantitative_eval/target/
+quantitative_eval/indexes/
+*.faiss
+*.pkl
+*.npy
+*.bin
+
+#raw scrape (commit only processed CSVs)
+quantitative_eval/your_scrape/
+
+
+# raw scrape (ignore)
+quantitative_eval/myki/
+quantitative_eval/fare_tables*/
+quantitative_eval/html_snapshots/
+quantitative_eval/tvic/
